@@ -1,0 +1,1 @@
+A responsive registration form
